@@ -8,7 +8,7 @@ zhouweilian1904@akane.waseda.jp
 
 --------------------------------
 **The detailed structure of the proposed idea is shown below.**
-![image](https://github.com/zhouweilian1904/TGRS_2_Multiscanning_Trans/blob/main/conceptual%20idea.png)
+![image](https://github.com/zhouweilian1904/TGRS-SRT-with-3D-Multiscanning-/blob/main/concept%204.png)
 
 --------------------------------
 **Abstract:**
