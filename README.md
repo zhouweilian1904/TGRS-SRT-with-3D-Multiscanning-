@@ -61,5 +61,5 @@ In the *model.py*, we have implemented many types of different designs for HSI c
 
 **Many Thanks to those reference code**
 
-DeepHyperX https://github.com/nshaud/DeepHyperX
+DeepHyperX https://github.com/nshaud/DeepHyperX **and** https://github.com/xiachangxue/DeepHyperX
 
