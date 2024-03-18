@@ -1,4 +1,4 @@
-# Segmented Recurrent Transformer with Cubed 3D-Multiscanning Strategy for Hyperspectral Image Classification
+# Segmented Recurrent Transformer with Cubed 3D-Multiscanning Strategy for Hyperspectral Image Classification (in major revision)
 
 --------------------------------
 Weilian Zhou, Graduate Student Member, IEEE, Sei-ichiro Kamata, Member, IEEE, Haipeng Wang, Senior Member, IEEE, Pengfeng Lu, Student Member, IEEE, and Mengyunqiu Zhang, Student Member, IEEE
@@ -59,7 +59,7 @@ In the *model.py*, we have implemented many types of different designs for HSI c
 
 --------------------------------
 
-**Many Thanks to those reference code**
+**Many Thanks to those reference codes:**
 
 DeepHyperX https://github.com/nshaud/DeepHyperX **and** https://github.com/xiachangxue/DeepHyperX
 
