@@ -50,9 +50,14 @@ you can find and add some arguments in *main.py* and *models.py* for your own te
 
 For example:
 
-python main.py --model RViT-Salinas  --dataset IndianPines --training_sample 0.1 --cuda 0 --epoch 200 --batch_size 100 --class_balancing --patch_size 9
+ python main.py --model RVIT-Salinas-1  --dataset Salinas --training_sample 50 --sampling_mode fixed --cuda 0 --epoch 200 --batch_size 100 --patch_size 15
 
 --------------------------------
 **Models:**
 
 In the *model.py*, we have implemented many types of different designs for HSI classification. You can try it with your debug becasuse we are still modifying them. There may exist some mistakes. 
+--------------------------------
+
+**Many Thanks to those reference code**
+DeepHyperX https://github.com/nshaud/DeepHyperX
+
