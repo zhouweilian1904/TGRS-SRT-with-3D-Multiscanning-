@@ -56,8 +56,10 @@ For example:
 **Models:**
 
 In the *model.py*, we have implemented many types of different designs for HSI classification. You can try it with your debug becasuse we are still modifying them. There may exist some mistakes. 
+
 --------------------------------
 
 **Many Thanks to those reference code**
+
 DeepHyperX https://github.com/nshaud/DeepHyperX
 
