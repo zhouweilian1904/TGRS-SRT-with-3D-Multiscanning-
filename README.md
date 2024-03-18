@@ -10,7 +10,7 @@ Feel free to contact us if there is anything we can help. Thanks for your suppor
 zhouweilian1904@akane.waseda.jp
 
 --------------------------------
-**The detailed structure of the proposed idea is shown below.**
+**The conceptual structure of the proposed idea is shown below.**
 
 ![image](https://github.com/zhouweilian1904/TGRS-SRT-with-3D-Multiscanning-/blob/main/concept%204.png)
 
